@@ -1,2 +1,13 @@
-# retail-sales-analysis
-An end-to-end retail sales data analysis project using Python to uncover key customer insights and top-performing categories.
+# 🛍️ Retail Sales Analysis Project
+
+## 📌 Project Overview
+An end-to-end data analysis project focusing on retail sales performance to uncover key business insights and customer behavior.
+
+## 🛠️ Tools Used
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Jupyter Notebook**
+
+## 📊 Key Findings & Business Insights
+- **Top Category by Sales:** Electronics ($156,905)
+- **Sales by Gender:** Female ($232,840) vs Male ($223,160)
+- **Average Customer Age:** 41.4 years old
